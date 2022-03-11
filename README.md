@@ -1,3 +1,6 @@
 # odin-landing-page
 
 First from-scratch website landing page
+
+Photo by <a href="https://unsplash.com/@insungyoon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">insung yoon</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
